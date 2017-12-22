@@ -1,4 +1,5 @@
 //app.js
+var config = require('common/script/config.js')
 App({
   onLaunch: function () {
     // 展示本地存储能力
