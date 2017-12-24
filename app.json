@@ -5,8 +5,33 @@
   ],
   "window":{
     "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#ff",
     "navigationBarTitleText": "WeChat",
     "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "热映",
+      "iconPath": "dist/images/popular_icon.png",
+      "selectedIconPath": "dist/images/popular_active_icon.png"
+    },{
+      "pagePath": "pages/index/index",
+      "text": "热映",
+      "iconPath": "dist/images/popular_icon.png",
+      "selectedIconPath": "dist/images/popular_active_icon.png"
+    },
+    {
+      "pagePath": "pages/index/index",
+      "text": "热映",
+      "iconPath": "dist/images/popular_icon.png",
+      "selectedIconPath": "dist/images/popular_active_icon.png"
+    },
+    {
+      "pagePath": "pages/index/index",
+      "text": "热映",
+      "iconPath": "dist/images/popular_icon.png",
+      "selectedIconPath": "dist/images/popular_active_icon.png"
+    }]
   }
 }
